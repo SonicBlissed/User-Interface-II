@@ -1,0 +1,57 @@
+*{
+    border: 1px solid black;
+}
+.navbar{
+    display: flex;
+    justify-content: flex-end;
+}
+h3{
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+}
+.projects{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background:url(https://i.ibb.co/TrrkYd0/Random-feat.jpg) no-repeat;
+    background-position: center;
+    background-size: 500px 500px;
+    flex-direction: column;
+    color: blueviolet;
+
+}
+.gallery1{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 50px;
+    padding-bottom: 0px;
+}
+.text1{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.gallery2{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 50px;
+    padding-bottom: 0px;
+}
+.text2{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+footer{
+    display: flex;
+    justify-content: center;
+}

@@ -1,1 +1,9 @@
-/* Add CSS styling here */
+html{
+    border: 1px solid black;
+}
+
+body .projects{
+    display: none;
+    
+    
+}
